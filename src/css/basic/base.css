@@ -1,12 +1,15 @@
+html {
+	font-family: 'Roboto-Regular', monospace;
+}
+
 *,
 *::before,
 *::after {
 	box-sizing: border-box;
 	margin: 0;
 	position: relative;
-	font-weight: normal;
 }
 
-html {
-	font-family: Roboto;
+button {
+	cursor: pointer;
 }
